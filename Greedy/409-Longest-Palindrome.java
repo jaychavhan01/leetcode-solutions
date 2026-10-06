@@ -1,15 +1,4 @@
 class Solution {
-    // public boolean checkPalindrome(String s) {
-    //     int st = 0;
-    //     int end = s.length() - 1;
-    //     while (st < end) {
-    //         if (s.charAt(st) != s.charAt(end))
-    //             return false;
-    //         st++;
-    //         end--;
-    //     }
-    //     return true;
-    // }
 
     public int longestPalindrome(String s) {
         int sum = 0;
