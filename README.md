@@ -40,9 +40,9 @@ I use this repository to practice:
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 215    |
-| Medium     | 97     |
+| Medium     | 98     |
 | Hard       | 10     |
-| Total      | 322    |
+| Total      | 323    |
 
 ## 🎯 Goal
 
