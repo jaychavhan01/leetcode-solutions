@@ -39,10 +39,10 @@ I use this repository to practice:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 215    |
+| Easy       | 216    |
 | Medium     | 98     |
 | Hard       | 10     |
-| Total      | 323    |
+| Total      | 324    |
 
 ## 🎯 Goal
 
